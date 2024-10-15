@@ -1,0 +1,48 @@
+.Maintitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: large;
+color: white;
+background-color: brown;
+border: 5px solid black;
+padding: 2px 30px;
+text-align: center;
+}
+.Image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.Image02 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.Description {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 5px solid black;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.Description02 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 5px solid black;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.Ingredients {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: 5px solid black;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 20px;  
+}
+#Ingredientstitle {
+
+}
